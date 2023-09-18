@@ -1,2 +1,2 @@
 # hello-world
-repo for intro to Github lab
+this is part 3 in the lab
